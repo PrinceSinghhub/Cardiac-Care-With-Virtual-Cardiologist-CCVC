@@ -58,6 +58,8 @@ Hello, I am your virtual cardiologist! CCVC is a revolutionary project that comb
     UI & UX View (Demo)
         CCVC Demo
 
+[Cardiac Care With Virtual Cardiologist (CCVC)](https://github.com/PrinceSinghhub/Cardiac-Care-With-Virtual-Cardiologist-CCVC/files/13407182/Cardiac.Care.With.Virtual.Cardiologist.CCVC.pptx)
+
 ## 1. Why I Chose CCVC
 Enhancing Heart Health Awareness
 
