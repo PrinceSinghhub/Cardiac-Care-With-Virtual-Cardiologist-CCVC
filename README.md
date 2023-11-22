@@ -60,6 +60,8 @@ Hello, I am your virtual cardiologist! CCVC is a revolutionary project that comb
 
 [Cardiac Care With Virtual Cardiologist (CCVC)](https://github.com/PrinceSinghhub/Cardiac-Care-With-Virtual-Cardiologist-CCVC/files/13407182/Cardiac.Care.With.Virtual.Cardiologist.CCVC.pptx)
 
+## Video 🎥
+
 ## 1. Why I Chose CCVC
 Enhancing Heart Health Awareness
 
@@ -172,3 +174,7 @@ Regular monitoring is conducted to assess the system's performance, and updates 
 The Cardiac Care With Virtual Cardiologist (CCVC) project represents a groundbreaking initiative that merges advanced technology with medical expertise. By leveraging Python, the MERN stack, and artificial intelligence, CCVC offers comprehensive insights into heart health. The introduction of a virtual cardiologist and the emphasis on democratizing healthcare mark a significant step toward transforming how we approach and manage cardiovascular health. CCVC is not just a project; it is a promising development that showcases the potential of technology in improving healthcare and wellness.
 ## 8. UI & UX View (Demo)
 CCVC Demo
+
+## Photo 📷
+![test](https://github.com/PrinceSinghhub/Cardiac-Care-With-Virtual-Cardiologist-CCVC/assets/71000042/85ad266f-461c-45c7-951b-004e9c71c457)
+
