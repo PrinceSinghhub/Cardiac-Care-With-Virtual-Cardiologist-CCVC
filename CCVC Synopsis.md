@@ -1,3 +1,19 @@
+# **Sage University Indore 2020-2024**
+
+## Project Title: Cardiac Care With Virtual Cardiologist (CCVC)
+
+**Cardiac Care With Virtual Cardiologist (CCVC) Synopsis**
+Project Guide: Dr Shivangini Saxena <br>
+
+<pre>
+Project Member      Enrollment Number
+Prince Singh        20ENG2CSE0079
+Khushi Jaiswal      20ENG2CSE0025
+</pre>
+
+
+
+
 | S.No. | Contents                | Page Number |
 |-------------|-------------------------|-------------|
 | 1           | Introduction            | 1           |
