@@ -12,6 +12,9 @@ Khushi Jaiswal      20ENG2CSE0025
 </pre>
 
 
+![Front Project Synopsis Cardiac Care With Virtual Cardiologist (CCVC)-1](https://github.com/PrinceSinghhub/Cardiac-Care-With-Virtual-Cardiologist-CCVC/assets/71000042/d276399f-e959-4351-aaf7-f597b991a94a)
+
+
 
 
 | S.No. | Contents                | Page Number |
