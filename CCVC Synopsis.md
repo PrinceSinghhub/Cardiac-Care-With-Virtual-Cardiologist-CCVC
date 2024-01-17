@@ -8,7 +8,6 @@ Project Guide: Dr Shivangini Saxena <br>
 <pre>
 Project Member      Enrollment Number
 Prince Singh        20ENG2CSE0079
-Khushi Jaiswal      20ENG2CSE0025
 </pre>
 
 
